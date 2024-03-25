@@ -42,5 +42,4 @@ def  trainTest():
 
     return X_train, Y_train, X_test, Y_test
 
-    plt.scatter(X_train[0,:], X_train[1,:], c=Y_train[0,:])
-    plt.show()
+    
