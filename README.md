@@ -1,4 +1,5 @@
 Neural Network Implementation and Principal Component Analysis (PCA):
+
 This repository contains two files: a neural network implementation from scratch and a PCA implementation. This README file provides a structured and summarized explanation of both implementations.
 
 Neural Network Implementation
