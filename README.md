@@ -14,7 +14,7 @@ and educational purposes.
 
 ![The-NN-used-for-detection-A-sigmoid-activation-function-is-used-for-the-hidden-and](https://github.com/leemaHmaid/ML-Algorithms/assets/52715254/e0f9df94-e1c4-46a8-8805-9e564df489ed)
 
-Structure :
+## Structure :
 We have two files:
 1- NN_scratch : In this file the class of the model is created, the file contains the model class and sigmoid activation function ,and the traing functions 
 2- DataSet : In this file the data set generationg function is implememnted 
