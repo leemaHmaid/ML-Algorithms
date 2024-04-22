@@ -11,7 +11,7 @@ The linear_regression folder implements a simple linear regression algorithm. It
 
 ## Logistic Regression
 
-The logistic_regression folder implements logistic regression, a popular algorithm for binary classification problems. It includes functions to fit the model, predict class labels, and assess performance using metrics like accuracy, precision, recall, and F1-score.
+The logistic_regression folder implements logistic regression, a popular algorithm for binary classification problems. It includes functions to fit the model, predict class labels, and assess performance using metrics like accuracy.
 
 ## Neural Network Implementation
 
