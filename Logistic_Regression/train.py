@@ -1,5 +1,5 @@
 from data import X_train , y_train , X_test , y_test
-from main import LogisticRegression
+from Class import LogisticRegression
 
 
 # Fit Training data
