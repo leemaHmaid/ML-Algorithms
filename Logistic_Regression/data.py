@@ -11,7 +11,6 @@ def train_test_split(X,y):
   this function takes as input the sample X and the corresponding features y
   and output the training and test set
   '''
-  np.random.seed(0) # To demonstrate that if we use the same seed value twice, we will get the same random number twice
 
   train_size = 0.8
   n = int(len(X)*train_size)
