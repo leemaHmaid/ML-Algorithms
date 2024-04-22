@@ -2,9 +2,18 @@
 
 
 
-This repository contains two files: a neural network implementation from scratch and a PCA implementation. This README file provides a structured and summarized explanation of both implementations.
+This repository contains Four Files : Linear regression model , logistic regression model and neural network implementation from scratch and a PCA implementation. This README file provides a structured and summarized explanation of both implementations.
 
-Neural Network Implementation
+## Linear Regression
+
+The linear_regression folder implements a simple linear regression algorithm. It provides functionalities to fit the model to training data, make predictions on new data, and evaluate the model's performance using metrics such as mean squared error (MSE) and R-squared.
+
+
+## Logistic Regression
+
+The logistic_regression folder implements logistic regression, a popular algorithm for binary classification problems. It includes functions to fit the model, predict class labels, and assess performance using metrics like accuracy, precision, recall, and F1-score.
+
+## Neural Network Implementation
 
 The neural network implementation is a code file that demonstrates how to create a basic neural network model from scratch. The purpose of this implementation is to provide a clear understanding of the fundamental concepts behind neural networks without relying on external libraries or frameworks.
 Neural networks are computational models inspired by the human brain. They consist of interconnected nodes, called neurons, organized in layers. The neural network implementation in this repository focuses on a simple feedforward neural network, which means the information flows in one direction, from the input layer to the output layer.
