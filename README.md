@@ -1,4 +1,4 @@
-# Machine Learning Fundamentals Implemetations
+# Machine Learning Fundamentals Implementations
 
 
 
