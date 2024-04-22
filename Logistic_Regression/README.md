@@ -2,6 +2,11 @@
 
 This folder contains the implementation of the Logistic Regression model in Python. Logistic Regression is a popular classification algorithm that models the relationship between input features and categorical targets using the logistic function.
 
+## folder Structure
+
+- `class.py`: Contains the implementation of the `LogisticRegression` class, which encapsulates the logic and functionality of the Logistic Regression model.
+- `data.py`: Generates synthetic data for training and testing purposes. You can modify this file to use your own datasets.
+- `training.py`: Provides an example usage of the Logistic Regression model, including model training and evaluation.
 ## Usage
 
 The `LogisticRegression` class provides the following methods:
