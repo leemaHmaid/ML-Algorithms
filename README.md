@@ -2,7 +2,7 @@
 
 
 
-This repository contains Four Files : Linear regression model , logistic regression model,neural network implementation from scratch and a PCA implementation. This README file provides a structured and summarized explanation of both implementations.
+This repository contains Four Folders : Linear regression model , logistic regression model,neural network implementation from scratch and a PCA implementation. This README file provides a structured and summarized explanation of both implementations.
 
  
 ## Linear Regression
