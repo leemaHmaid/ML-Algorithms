@@ -9,18 +9,18 @@ This repository contains Four Files : Linear regression model , logistic regress
 
 The linear_regression folder implements a simple linear regression algorithm. It provides functionalities to fit the model to training data, make predictions on new data, and evaluate the model's performance using metrics such as mean squared error (MSE) and R-squared.
 
-- Class.py file which holds the implementation of the model with function.
-- data.py this file hold the functions that generates the data for training labeled as X_train, Y_train and for testing X_test ,Y_Test.
-- train This file the test and evaluation of the model generalization on unsees data is implemented.
+- `Class.py` file which holds the implementation of the model with function.
+- `data.py` this file hold the functions that generates the data for training labeled as X_train, Y_train and for testing X_test ,Y_Test.
+- `train.py` This file the test and evaluation of the model generalization on unsees data is implemented.
 
 
 ## Logistic Regression
 
 The logistic_regression folder implements logistic regression, a popular algorithm for binary classification problems. It includes functions to fit the model, predict class labels, and assess performance using metrics like accuracy.
 
-- Class.py file which holds the implementation of the model with function.
-- data.py this file hold the functions that generates the data for training labeled as X_train, Y_train and for testing X_test ,Y_Test.
-- train This file the test and evaluation of the model generalization on unsees data is implemented.
+- `Class.py` file which holds the implementation of the model with function.
+- `data.py` this file hold the functions that generates the data for training labeled as X_train, Y_train and for testing X_test ,Y_Test.
+- `train.py` This file the test and evaluation of the model generalization on unsees data is implemented.
 
 ## Neural Network Implementation
 
